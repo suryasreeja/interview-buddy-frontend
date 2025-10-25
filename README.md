@@ -30,5 +30,4 @@ This app allows users to **create, view, edit, and delete user profiles** — al
 
 ---
 
-## 📂 Folder Structure
 
